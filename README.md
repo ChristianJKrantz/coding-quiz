@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Coding Quiz</h1>
+<h1 align="center">Coding Quiz</h1>
 
 <p align="center">A timed, multiple-choice quiz on JavaScript fundamentals with a high-score board.</p>
 
@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/coding-quiz/"><strong>🚀 Live Demo</strong></a></p>
+<p align="center"><a href="https://christiankrantz11.github.io/coding-quiz/"><strong>Live Demo</strong></a></p>
 
 <p align="center">
   <img src="docs/screenshot-start.png" alt="Coding Quiz start screen" width="420">
-  <img src="docs/screenshot-question.png" alt="A quiz question with four answer choices and the countdown timer" width="420">
+  <img src="docs/screenshot-question.png" alt="A quiz question showing the wrong answer in red, the correct answer in green and the countdown timer" width="420">
 </p>
 
 ## Features
@@ -40,19 +40,6 @@ No build step is needed.
    ```
 2. Open `index.html` in your browser.
 
-## User Story
-
-<details>
-<summary>Original assignment user story</summary>
-
-```
-AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
-
-</details>
-
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
